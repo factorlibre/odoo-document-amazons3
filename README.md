@@ -1,4 +1,9 @@
-odoo-document-amazons3
-======================
+Amazon S3 Document Management
+=================
 
-Odoo Document attachments management with amazon s3.
+Manages Document attachments with Amazon S3, using boto amazon library (https://github.com/boto/boto)
+
+To use must define ir_attachment.location param as:
+
+amazons3://access_key_id:secret_access_key@bucket
+

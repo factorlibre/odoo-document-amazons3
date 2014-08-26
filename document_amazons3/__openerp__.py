@@ -34,7 +34,7 @@
 Amazon S3 Document Management
 =================
 
-Manages Document attachments with Amazon S3.
+Manages Document attachments with Amazon S3, using boto amazon library (https://github.com/boto/boto)
 
 To use must define ir_attachment.location param as:
 
