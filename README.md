@@ -1,7 +1,7 @@
-Amazon S3 Document Management
+Amazon S3 Document Management For Odoo / OpenERP
 =================
 
-Manages Document attachments with Amazon S3, using boto amazon library (https://github.com/boto/boto)
+Manages OpenERP Document attachments with Amazon S3, using boto amazon library (https://github.com/boto/boto)
 
 To use must define ir_attachment.location param as:
 
